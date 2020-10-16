@@ -5,6 +5,7 @@ public class Labb1 {
     public static void main(String[] args) {
 
 
+        //updated
         Scanner sc = new Scanner(System.in); //Creating scanner for user input
         int choice; //Creating int "choice" for later use
         System.out.println("Hello and welcome to the Dice Game!");
